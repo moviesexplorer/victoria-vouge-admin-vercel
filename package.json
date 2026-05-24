@@ -1,0 +1,12 @@
+{
+  "name": "victoria-vogue-admin",
+  "version": "1.0.0",
+  "description": "Admin Panel for Victoria Vogue",
+  "main": "admin.html",
+  "scripts": {
+    "start": "serve -s ."
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
